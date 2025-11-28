@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # QR GENERATOR
 
 Professional QR Code Generator built with **React**, **TypeScript**, **MUI**, and **Qrcode.React**. Generate stylish and responsive QR codes from text or URLs with a modern black, red, and white theme.
@@ -22,7 +22,7 @@ Professional QR Code Generator built with **React**, **TypeScript**, **MUI**, an
 ```bash
 git clone https://github.com/matezepam/QR-GENERATOR.git
 cd QR-GENERATOR
-=======
+
 # QR-GENERATOR
 Professional QR Code Generator built with React, TypeScript, MUI and Qrcode.React. Generate stylish and responsive QR codes easily.
->>>>>>> 3ad4ab3dc28bb1ccfae3d6903505dd387cf5509c
+
